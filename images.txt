@@ -1,1 +1,1 @@
-hertzbeat apache/hertzbeat
+apache/hertzbeat
